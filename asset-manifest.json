@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/10-final-project-herman-braggs/static/css/main.412bb73a.chunk.css",
+    "main.js": "/10-final-project-herman-braggs/static/js/main.2862b5a7.chunk.js",
+    "main.js.map": "/10-final-project-herman-braggs/static/js/main.2862b5a7.chunk.js.map",
+    "runtime-main.js": "/10-final-project-herman-braggs/static/js/runtime-main.875eccd1.js",
+    "runtime-main.js.map": "/10-final-project-herman-braggs/static/js/runtime-main.875eccd1.js.map",
+    "static/js/2.d512bcf4.chunk.js": "/10-final-project-herman-braggs/static/js/2.d512bcf4.chunk.js",
+    "static/js/2.d512bcf4.chunk.js.map": "/10-final-project-herman-braggs/static/js/2.d512bcf4.chunk.js.map",
+    "static/js/3.7bb1ffc3.chunk.js": "/10-final-project-herman-braggs/static/js/3.7bb1ffc3.chunk.js",
+    "static/js/3.7bb1ffc3.chunk.js.map": "/10-final-project-herman-braggs/static/js/3.7bb1ffc3.chunk.js.map",
+    "index.html": "/10-final-project-herman-braggs/index.html",
+    "static/css/main.412bb73a.chunk.css.map": "/10-final-project-herman-braggs/static/css/main.412bb73a.chunk.css.map",
+    "static/js/2.d512bcf4.chunk.js.LICENSE.txt": "/10-final-project-herman-braggs/static/js/2.d512bcf4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.875eccd1.js",
+    "static/js/2.d512bcf4.chunk.js",
+    "static/css/main.412bb73a.chunk.css",
+    "static/js/main.2862b5a7.chunk.js"
+  ]
+}
